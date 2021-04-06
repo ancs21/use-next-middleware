@@ -9,7 +9,7 @@ So, I write `use-next-middleware`. It's very clean, minimal and composable middl
 Use the package manager **yarn** or **npm** to install `use-next-middleware`.
 
 ```bash
-yarn install use-next-middleware
+yarn add use-next-middleware
 ```
 
 ## Quick Start
